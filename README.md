@@ -9,3 +9,5 @@ Daniil Dymov, 7112
 6&7-th hometask on Colab https://colab.research.google.com/drive/1g9v3GPPg0huojTAta87uEnm5i8dZmyRr
 
 there is no 8 hometask on Colab
+
+14 hometask on Colab https://colab.research.google.com/drive/1gRKE0xdEXcz3Hw2bkNJd-x4W1XqL56d0#scrollTo=WxwgYG0_7l5B
